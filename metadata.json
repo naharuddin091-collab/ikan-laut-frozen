@@ -1,0 +1,6 @@
+{
+  "name": "Ikan Laut Frozen",
+  "description": "Katalog dan formulir pemesanan ikan laut beku segar dengan konfirmasi otomatis terintegrasi webhook n8n.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
